@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/item/0033/texture"
+    "layer0": "minecraft:item/item/0032/texture"
   }
 }
