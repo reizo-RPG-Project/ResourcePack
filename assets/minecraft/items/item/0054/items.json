@@ -1,0 +1,17 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "model",
+                "model": "item/item/0054/model",
+                "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+                ]
+            }
+        ]
+    }
+}
