@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/item/0055/texture",
+    "layer1": "item/item/0053/texture"
+  }
+}
