@@ -7,7 +7,8 @@
                 "trims/entity/humanoid_leggings/0001",
                 "trims/entity/humanoid/0002",
                 "trims/entity/humanoid_leggings/0002",
-                "trims/entity/humanoid/0003"
+                "trims/entity/humanoid/0003",
+                "trims/entity/humanoid/0004"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
