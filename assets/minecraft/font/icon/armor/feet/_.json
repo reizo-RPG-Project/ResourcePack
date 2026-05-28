@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/icon/armor.png",
-            "ascent": -45,
+            "ascent": -47,
             "height": 16,
             "chars": [
                 "0123"
