@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/enemies.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "0123456789"
+            ]
+        }
+    ]
+}
