@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hp_regen_bar.png",
+            "ascent": 5,
+            "height": 5,
+            "chars": [
+                "\uA000\uA008\uA016\uA024\uA032",
+                "\uA001\uA009\uA017\uA025\uA033",
+                "\uA002\uA010\uA018\uA026\uA034",
+                "\uA003\uA011\uA019\uA027\uA035",
+                "\uA004\uA012\uA020\uA028\uA036",
+                "\uA005\uA013\uA021\uA029\uA037",
+                "\uA006\uA014\uA022\uA030\uA038",
+                "\uA007\uA015\uA023\uA031\uA039"
+            ]
+        }
+    ]
+}
