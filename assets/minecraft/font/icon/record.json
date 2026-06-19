@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/record.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "\u0000\u0001\u0002\u0003"
+            ]
+        }
+    ]
+}
