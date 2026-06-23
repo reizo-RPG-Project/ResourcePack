@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/icon/record.png",
-            "ascent": 12,
+            "ascent": -50,
             "height": 16,
             "chars": [
                 "\u0001\u0002\u0003\u0004",
