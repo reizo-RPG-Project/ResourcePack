@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/number.png",
-            "ascent": -50,
+            "ascent": -52,
             "height": 8,
             "chars": [
                 "0123456789"
