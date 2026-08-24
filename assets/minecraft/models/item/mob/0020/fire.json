@@ -1,0 +1,79 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/fire_0",
+		"1": "block/fire_1",
+		"particle": "block/fire_0"
+	},
+	"elements": [
+		{
+			"from": [4.58208, -1.60476, 2.8806],
+			"to": [4.58208, 6.39524, 10.8806],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 4, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 2, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [2, 0, 2, 8], "texture": "#0"},
+				"down": {"uv": [2, 1, 2, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.59043, -1.38059, 2.8806],
+			"to": [11.59043, 6.61941, 10.8806],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 4, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [2, 0, 2, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [2, 0, 2, 8], "texture": "#1"},
+				"down": {"uv": [2, 1, 2, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 4.75, 7.25],
+			"to": [11, 12.75, 7.25],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 4, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [0, 2, 6, 2], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 2, 6, 2], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 2, 6, 2], "texture": "#1"},
+				"down": {"uv": [0, 2, 6, 2], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 4.75, 7.25],
+			"to": [12, 12.75, 7.25],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 4, 7.25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 2, 6, 2], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 2, 6, 2], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 2, 8, 2], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 2, 8, 2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "fire",
+			"origin": [0, -2, -7],
+			"scope": 0,
+			"color": 0,
+			"configs": {
+				"default": {},
+				"variants": {}
+			},
+			"itemModelProperties": {
+				"tints": []
+			},
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
