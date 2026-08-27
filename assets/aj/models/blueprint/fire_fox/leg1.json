@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "aj:blueprint/fire_fox/fire_fox",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.001, 1.5, 7],
+			"to": [9.001, 7.5, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [6, 1.5, 1]
+			},
+			"faces": {
+				"north": {
+					"uv": [5, 13, 5.66667, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4.33333, 13, 5, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6.33333, 13, 7, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [5.66667, 13, 6.33333, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [5.66667, 13, 5, 12],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.33333, 12, 5.66667, 13],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

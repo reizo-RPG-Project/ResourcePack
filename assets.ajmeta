@@ -1,0 +1,25 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"aj:fire_fox": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/fire_fox/body.json",
+				"assets/aj/items/blueprint/fire_fox/head.json",
+				"assets/aj/items/blueprint/fire_fox/leg1.json",
+				"assets/aj/items/blueprint/fire_fox/leg2.json",
+				"assets/aj/items/blueprint/fire_fox/leg3.json",
+				"assets/aj/items/blueprint/fire_fox/leg4.json",
+				"assets/aj/items/blueprint/fire_fox/tail.json",
+				"assets/aj/models/blueprint/fire_fox/body.json",
+				"assets/aj/models/blueprint/fire_fox/head.json",
+				"assets/aj/models/blueprint/fire_fox/leg1.json",
+				"assets/aj/models/blueprint/fire_fox/leg2.json",
+				"assets/aj/models/blueprint/fire_fox/leg3.json",
+				"assets/aj/models/blueprint/fire_fox/leg4.json",
+				"assets/aj/models/blueprint/fire_fox/tail.json",
+				"assets/aj/textures/blueprint/fire_fox/fire_fox.png"
+			]
+		}
+	}
+}
