@@ -1,6 +1,22 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:cauldron": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/cauldron/left_handles.json",
+				"assets/aj/items/blueprint/cauldron/right_handles.json",
+				"assets/aj/items/blueprint/cauldron/root.json",
+				"assets/aj/items/blueprint/cauldron/side.json",
+				"assets/aj/items/blueprint/cauldron/stick.json",
+				"assets/aj/models/blueprint/cauldron/left_handles.json",
+				"assets/aj/models/blueprint/cauldron/right_handles.json",
+				"assets/aj/models/blueprint/cauldron/root.json",
+				"assets/aj/models/blueprint/cauldron/side.json",
+				"assets/aj/models/blueprint/cauldron/stick.json",
+				"assets/aj/textures/blueprint/cauldron/texture.png"
+			]
+		},
 		"aj:fire_fox": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
